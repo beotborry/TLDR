@@ -1,5 +1,5 @@
 # TLDR
-Official Implementation of TLDR: Text Based Last-layer Retraining for Debiasing Image Classifiers (WACV 2025)
+Official Implementation of TLDR: Text Based Last-layer Retraining for Debiasing Image Classifiers (WACV 2025) (arXiv: https://arxiv.org/abs/2311.18291)
 
 This code is based on the SpuCo repository (https://github.com/BigML-CS-UCLA/SpuCo)
 
